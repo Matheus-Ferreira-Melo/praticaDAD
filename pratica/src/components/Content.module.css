@@ -1,0 +1,51 @@
+.fundo{
+    background-color: #CCCCCC;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+}
+.bloco1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+    gap: 20px;
+    width: 330px;
+    height: 488px;
+}
+.x{
+    width: 20px;
+    height: 20px;
+}
+.linhaPossui{
+    color: #2D2E2E;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.linhaNPossui{
+    color:#2d2e2e91;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.correto{
+    
+    width: 20px;
+    height: 20px;
+}
+.preco{
+    color:#2D2E2E;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.botao{
+    border-radius: 5px;
+    padding: 15px 40px;
+}
